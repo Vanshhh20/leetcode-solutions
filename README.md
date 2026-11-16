@@ -24,5 +24,22 @@
 ## Simulation
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Array
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+## Math
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
