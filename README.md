@@ -8,14 +8,17 @@
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## String
 |  |
@@ -42,4 +45,8 @@
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
