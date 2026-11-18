@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Simulation
 |  |
 | ------- |
