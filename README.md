@@ -8,16 +8,19 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## String
@@ -55,4 +58,8 @@
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Vanshhh20/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
