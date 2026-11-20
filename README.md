@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Math
 |  |
 | ------- |
@@ -57,9 +58,14 @@
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Vanshhh20/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
