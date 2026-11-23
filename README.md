@@ -41,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Vanshhh20/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
@@ -67,6 +68,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Vanshhh20/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Depth-First Search
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
