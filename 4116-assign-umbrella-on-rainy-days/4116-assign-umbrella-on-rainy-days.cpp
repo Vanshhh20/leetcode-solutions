@@ -1,8 +1,7 @@
 class Solution {
 public:
     vector<string> assignUmbrella(vector<int>& rain) {
-        
-        if(rain.size()==1 && rain[0]==1) return {"Bob"};
+     
 int a=0,b=0;
 
        vector<string>ans;
