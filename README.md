@@ -10,6 +10,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -24,6 +25,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## String
 |  |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +90,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Vanshhh20/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
