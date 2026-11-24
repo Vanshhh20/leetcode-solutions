@@ -20,6 +20,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vanshhh20/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Binary Tree
 |  |
@@ -45,6 +46,7 @@
 | [0011-container-with-most-water](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vanshhh20/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Vanshhh20/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
