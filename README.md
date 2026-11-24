@@ -20,6 +20,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Binary Tree
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Vanshhh20/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Vanshhh20/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Math
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Vanshhh20/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Depth-First Search
@@ -82,6 +85,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Design
 |  |
