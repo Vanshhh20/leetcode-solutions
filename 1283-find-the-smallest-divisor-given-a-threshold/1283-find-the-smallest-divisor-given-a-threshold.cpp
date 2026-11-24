@@ -10,7 +10,8 @@ public:
 int mid= l+(r-l)/2;
 int s=0;
 for(int i=0;i<n;i++){
-s+=ceil(nums[i]*1.0/mid);
+s += (nums[i] + mid - 1) / mid;
+if(s>k) break;
 }
 if(s<=k) {
     ans=mid;
