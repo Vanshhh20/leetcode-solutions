@@ -55,6 +55,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Vanshhh20/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Vanshhh20/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Vanshhh20/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
