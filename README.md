@@ -40,6 +40,7 @@
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Vanshhh20/leetcode-solutions/tree/master/3360-stone-removal-game) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0231-power-of-two](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Vanshhh20/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3360-stone-removal-game](https://github.com/Vanshhh20/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Vanshhh20/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Vanshhh20/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Combinatorics
