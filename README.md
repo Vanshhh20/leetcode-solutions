@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vanshhh20/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -76,6 +77,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Vanshhh20/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Greedy
